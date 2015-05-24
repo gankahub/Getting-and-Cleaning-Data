@@ -1,5 +1,5 @@
-activity: The type of activity undertaken 
-subject: The number for the person being tracked
+activity: The type of activity undertaken (LAYING,SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS))
+subject: Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30
 y: Numeric value for activity
 tBodyAcc-std()-X
 tBodyAcc-std()-Y
